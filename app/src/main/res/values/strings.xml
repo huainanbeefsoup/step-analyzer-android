@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">STEP模具分析</string>
+    <string name="select_file">选择STEP文件</string>
+    <string name="analyze">开始分析</string>
+    <string name="view_3d">查看3D模型</string>
+    <string name="settings">设置</string>
+    <string name="history">历史记录</string>
+    <string name="export_report">导出报告</string>
+    <string name="share">分享</string>
+    <string name="loading">分析中...</string>
+    <string name="analysis_complete">分析完成</string>
+    <string name="analysis_failed">分析失败</string>
+    <string name="no_file_selected">请先选择文件</string>
+    <string name="file_too_large">文件过大，请选择小于50MB的文件</string>
+    <string name="invalid_file_type">不支持的文件类型，请选择.step或.stp文件</string>
+    <string name="network_error">网络连接失败</string>
+    <string name="draft_angle">拔模角分析</string>
+    <string name="wall_thickness">壁厚分析</string>
+    <string name="undercut">倒扣检测</string>
+    <string name="parting_line">分型面分析</string>
+    <string name="cost_estimate">模具报价</string>
+    <string name="machine_recommend">机台推荐</string>
+</resources>

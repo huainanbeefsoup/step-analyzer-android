@@ -1,0 +1,2 @@
+rootProject.name = 'STEP模具分析'
+include ':app'

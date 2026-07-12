@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#007AFF</color>
+    <color name="primary_dark">#0056CC</color>
+    <color name="accent">#FF6B6B</color>
+    <color name="background">#F5F5F5</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_hint">#999999</color>
+    <color name="divider">#EEEEEE</color>
+    <color name="status_pass">#28A745</color>
+    <color name="status_warning">#FFC107</color>
+    <color name="status_fail">#DC3545</color>
+    <color name="status_info">#17A2B8</color>
+</resources>
